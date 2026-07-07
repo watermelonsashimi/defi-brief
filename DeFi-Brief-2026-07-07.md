@@ -4,7 +4,7 @@
 
 ## New since last brief (2026-07-06)
 
-- **[NEW, SAFETY]** Summer.fi's Lazy Summer Protocol lost ~$6M (July 6) to a share-accounting exploit on its LazyVault_LowerRisk_USDC vault; attacker funded the attack with a $65.4M flash loan sourced from Morpho. Morpho states its own contracts are unaffected and safe; Summer.fi's guardians paused all Lazy Summer vaults. Not a Steakhouse/Morpho-curated vault — no exposure to our holdings. [CoinDesk](https://www.coindesk.com/web3/2026/07/06/defi-protocol-summer-fi-halts-lazy-summer-vaults-after-usd6-million-exploit) · [CryptoTimes](https://www.cryptotimes.io/2026/07/06/summer-finance-hit-by-suspected-flash-loan-exploit-worth-nearly-6m/)
+- **NEW, SAFETY:** Summer.fi's Lazy Summer Protocol lost ~$6M (July 6) to a share-accounting exploit on its LazyVault_LowerRisk_USDC vault; attacker funded the attack with a $65.4M flash loan sourced from Morpho. Morpho states its own contracts are unaffected and safe; Summer.fi's guardians paused all Lazy Summer vaults. Not a Steakhouse/Morpho-curated vault — no exposure to our holdings. [CoinDesk](https://www.coindesk.com/web3/2026/07/06/defi-protocol-summer-fi-halts-lazy-summer-vaults-after-usd6-million-exploit) · [CryptoTimes](https://www.cryptotimes.io/2026/07/06/summer-finance-hit-by-suspected-flash-loan-exploit-worth-nearly-6m/)
 
 ## Still active / unresolved
 
