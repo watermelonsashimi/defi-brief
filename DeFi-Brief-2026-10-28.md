@@ -2,9 +2,9 @@
 
 **No safety alerts on holdings.** Steakhouse USDT/USDC Morpho vaults and Maple syrupUSDC remain clean.
 
-## New since last brief (2026-10-26)
+## New since last brief (2026-10-27)
 
-Nothing new since 2026-10-26.
+Nothing new since 2026-10-27.
 
 ## Still active / unresolved
 
